@@ -2,4 +2,4 @@
 
 > App.tsx
 > 
-> city.json
+> import city.json
